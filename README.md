@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at ...
 
-- 💬 Ask me about **Java and Python**
+- 💬 Ask me about **Java and Kotlin**
 
 - 📞 Connect with me:<a href="https://stackoverflow.com/users/14875702" target="blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14875702" height="25" width="35" /></a>
   
